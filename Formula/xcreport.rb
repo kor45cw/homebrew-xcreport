@@ -3,9 +3,9 @@
 class Xcreport < Formula
     desc "A Swift command-line tool to manage xcresult file"
     homepage "https://github.com/kor45cw/XCReport"
-    url "https://github.com/kor45cw/XCReport/releases/download/0.0.3/xcreport.tar.gz"
-    sha256 "67b039906e1982a31af3f2f19bf8ea48bb79bd4022886aa229b670c589be6b78"
-    version "0.0.3"
+    url "https://github.com/kor45cw/XCReport/releases/download/0.0.4/xcreport.tar.gz"
+    sha256 "306f5b4501a50c029d4a45dbd33de891e1092c02af98c190269293e67fc9d832"
+    version "0.0.4"
     
     def install
         bin.install "xcreport"
